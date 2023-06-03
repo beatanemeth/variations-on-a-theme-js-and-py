@@ -1,6 +1,6 @@
 # Variations on a Theme - JavaScript & Python
 
-Same task written with JavaScript and Python.
+The same task is written with JavaScript and Python.
 
 ### **01-Slicing and Extracting Parts of a String**
 
